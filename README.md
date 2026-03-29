@@ -4,7 +4,7 @@
 
 ---
 
-## About
+## About Me
 I am an ICT student with a background in Application Development and a certified foundation in Data Analytics. Strong in frontend development using HTML and CSS, with an eye for clean, user-friendly interfaces. Comfortable working with data, basic SQL, and analytical thinking to support informed digital solutions.
 
 ## Projects
@@ -55,3 +55,4 @@ I am an ICT student with a background in Application Development and a certified
 https://drive.google.com/file/d/1sQe3E1em2_JJFQc_uNbNZN2WlLOIOTa0/view?usp=sharing
 
 ## Resume link
+https://github.com/wil-it-2026/cv-submission-PamMasina
