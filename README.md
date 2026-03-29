@@ -1,10 +1,10 @@
-# Andile Masina
+# Andile Pamela Masina
 **Cape Town, Western Cape** | 0842192037
 [LinkedIn](https://www.linkedin.com/in/andile-masina-a099ba220) | 221568816@mycput.ac.za
 
 ---
 
-## Objective
+## About
 I am an ICT student with a background in Application Development and a certified foundation in Data Analytics. Strong in frontend development using HTML and CSS, with an eye for clean, user-friendly interfaces. Comfortable working with data, basic SQL, and analytical thinking to support informed digital solutions.
 
 ## Projects
