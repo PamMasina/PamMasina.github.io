@@ -59,5 +59,7 @@ https://drive.google.com/file/d/1sQe3E1em2_JJFQc_uNbNZN2WlLOIOTa0/view?usp=shari
   <source src=./AP_Masina_Interview Video.mp4" type="video/mp4">
 </video>
 
+<video src="./charlton-solomons-mock-interview.mp4" controls width="600"></video>
+
 ## Resume link
 https://github.com/wil-it-2026/cv-submission-PamMasina
