@@ -51,9 +51,6 @@ I am an ICT student with a background in Application Development and a certified
 
 ---
 
-## Interview video link
-https://drive.google.com/file/d/1sQe3E1em2_JJFQc_uNbNZN2WlLOIOTa0/view?usp=sharing
-
 <h2>Mock Interview Video</h2>
 <video src="./AP_Masina_Interview Video.mp4" controls width="600"></video>
 
