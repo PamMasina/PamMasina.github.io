@@ -55,9 +55,7 @@ I am an ICT student with a background in Application Development and a certified
 https://drive.google.com/file/d/1sQe3E1em2_JJFQc_uNbNZN2WlLOIOTa0/view?usp=sharing
 
 <h2>Mock Interview Video</h2>
-<video width="600" controls>
-  <source src=./AP_Masina_Interview Video.mp4" type="video/mp4">
-</video>
+<video src="./AP_Masina_Interview Video.mp4" controls width="600"></video>
 
 ## Resume link
 https://github.com/wil-it-2026/cv-submission-PamMasina
